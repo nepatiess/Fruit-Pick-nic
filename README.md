@@ -18,4 +18,4 @@ As my final project for the Tech İstanbul Unity Workshop, held from February 19
 
 ---
 
-<img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/banner.png">
+<img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/photos/banner.png">
