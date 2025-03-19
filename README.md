@@ -1,4 +1,3 @@
-# Fruit Pick-nic
 <img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/fruit%20pick-nic.PNG" height=500 width=1920 >
 
 # Genre: Arcade, Casual 
