@@ -6,7 +6,7 @@ Fruit Pick-nic is a fun arcade game that tests your reflexes. Players must colle
 ---
 
 # How to play?
-🟢 Move the basket left and right using the arrow keys to catch the fruits. <img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/basket.png" width="300" align="right"/>
+🟢 Move the basket left and right using the arrow keys to catch the fruits. <img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/basket.png" width="200" align="right"/>
 
 🟡 Avoid unwanted objects to prevent losing points.
 
