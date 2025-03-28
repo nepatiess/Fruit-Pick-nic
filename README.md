@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/fruit%20pick-nic.PNG" height=500 width=1920 >
+<img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/photos/fruit%20pick-nic.PNG" height=500 width=1920 >
 
 # Genre: Arcade, Casual 
 Fruit Pick-nic is a fun arcade game that tests your reflexes. Players must collect falling fruits in their basket to achieve the highest score. But beware! Unwanted objects may also drop – avoid them!
@@ -6,7 +6,7 @@ Fruit Pick-nic is a fun arcade game that tests your reflexes. Players must colle
 ---
 
 # How to play?
-🟢 Move the basket left and right using the arrow keys to catch the fruits. <img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/basket.png" width="200" align="right"/>
+🟢 Move the basket left and right using the arrow keys to catch the fruits. <img src="https://raw.githubusercontent.com/nepatiess/Fruit-Pick-nic/refs/heads/main/photos/basket.png" width="200" align="right"/>
 
 🟡 Avoid unwanted objects to prevent losing points.
 
