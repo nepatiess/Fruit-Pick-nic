@@ -2,6 +2,7 @@
 
 # Genre: Arcade, Casual 
 Fruit Pick-nic is a fun arcade game that tests your reflexes. Players must collect falling fruits in their basket to achieve the highest score. But beware! Unwanted objects may also drop – avoid them!
+You can [try](https://nepatiess.itch.io/fruit-pick-nic) now
 
 ---
 
